@@ -118,3 +118,9 @@ Para limitar los valores posibles y evitar que alguien meta cualquier texto ahí
 
 - **DrawSQL** — para construir el diagrama visual de la base de datos
 - **MySQL** — motor de base de datos de referencia para los tipos de datos# Firma-Juridica
+
+## 🛠️ Links por si acaso no sirven las imagenes
+
+https://ibb.co/V0xLmY7D
+
+https://ibb.co/v4GdMw35
